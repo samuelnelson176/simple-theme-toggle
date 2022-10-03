@@ -24,3 +24,6 @@ button:hover {
     color: #000;
     transition: .5s;
 }
+.dark-bg{
+    background: rgb(10, 0, 33);
+}
